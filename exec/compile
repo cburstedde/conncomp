@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Change these entries to match your t8code library folder
-BASEDIR=$HOME/execute
-T8_DIR=$BASEDIR/t8code_install
+#BASEDIR=$HOME/execute
+#T8_DIR=$BASEDIR/t8code_install
 
 
 # Compiler settings
